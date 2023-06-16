@@ -17,4 +17,4 @@ node index.js
 2. Browse the link http://localhost:8888/ on your browser. You can see UI as below image:
 <br />![UI for PancakeSwap V1 on BSC Testnet](https://raw.githubusercontent.com/laptrinhbockchain/pancake-swap-v1-bsc-testnet-ui/cc57a45521612d85ced1cbc4acae45cb3fcb7400/pancake/ui.png)
 
-<b>Note</b>: You can change <b>appDir</b> variable in [index.js](https://github.com/laptrinhbockchain/pancake-swap-v1-bsc-testnet-ui/blob/main/index.js) to run <b>HeraSwap</b> on <b>Cronos Testnet</b>.
+<b>Note</b>: You can change <b>appDir</b> variable in [index.js](https://github.com/laptrinhbockchain/pancake-swap-v1-bsc-testnet-ui/blob/main/index.js) to run <b>HeraSwap</b> on <b>Cronos Testnet</b>. Remember don't change the value of the <b>port</b> variable.
