@@ -1,6 +1,6 @@
 # UI for PancakeSwap V1 on BSC Testnet
 Guide you to run the PancakeSwap V1 interface on the BSC Testnet environment from your personal computer.
-For instructions on deploying PancakeSwap V1 on the BSC Testnet environment, see [pancake-swap-v1-bsc-testnet](https://github.com/laptrinhbockchain/pancake-swap-v1-bsc-testnet) or [Hướng dẫn triển khai PancakeSwap v1 trên môi trường Binance Smart Chain BSC Testnet](https://laptrinhblockchain.net/huong-dan-trien-khai-pancake-swap-v1-tren-moi-truong-binance-smart-chain-bsc-testnet/)
+For instructions on deploying PancakeSwap V1 on the BSC Testnet environment, see [pancake-swap-v1-bsc-testnet](https://github.com/laptrinhbockchain/pancake-swap-v1-bsc-testnet) or [Guideline for deploying PancakeSwap v1 on Binance Smart Chain BSC Testnet](https://laptrinhblockchain.net/huong-dan-trien-khai-pancake-swap-v1-tren-moi-truong-binance-smart-chain-bsc-testnet/)
 
 ## Requirements
 1. NodeJs version 14 or newer
